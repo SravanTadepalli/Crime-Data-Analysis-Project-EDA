@@ -110,3 +110,77 @@ For any queries, reach out via:
 📧 Email: sravantadepalli2002@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/sravan-tadepalli-24652b261 
+
+
+
+
+
+
+
+🔍 Dataset Overview
+
+The dataset consists of crime records with the following key columns:
+
+Column Name
+
+Description
+
+Date Rptd
+
+Date when the crime was reported
+
+DATE OCC
+
+Date when the crime occurred
+
+TIME OCC
+
+Time of occurrence (24-hour format)
+
+AREA
+
+Code representing the area where the crime occurred
+
+AREA NAME
+
+Name of the area
+
+Part 1-2
+
+Classification of crime (Part 1 or Part 2)
+
+Crm Cd
+
+Crime code
+
+Crm Cd Desc
+
+Description of the crime
+
+Vict Age
+
+Age of the victim
+
+Vict Sex
+
+Gender of the victim (M/F/X)
+
+Vict Descent
+
+Ethnicity of the victim
+
+Premis Desc
+
+Description of the crime location
+
+Weapon Desc
+
+Description of the weapon used (if any)
+
+Status Desc
+
+Status of the case (e.g., Investigation Ongoing, Closed)
+
+LOCATION
+
+Latitude & Longitude coordinates of the crime
